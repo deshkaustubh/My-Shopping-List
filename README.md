@@ -10,4 +10,4 @@ Used to create a list of Shopping Items
   - Edit
   - Delete
 
-  [Apk Download Link](https://github.com/kaustubhsuryakantdeshpande/My-Shopping-List/blob/master/MyShoppingList.apk)
+  [Apk Download Link](https://github.com/kaustubhsuryakantdeshpande/My-Shopping-List/raw/refs/heads/master/MyShoppingList.apk)
