@@ -13,10 +13,13 @@ Helps you create a list of items and item quantity, add more items, delete items
   [Apk Download Link](https://github.com/kaustubhsuryakantdeshpande/My-Shopping-List/raw/refs/heads/master/MyShoppingList.apk)
 
 # Images
-![alt text](https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152115.jpg)
+<div style="display: flex; overflow-x: auto;">
+<img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152115.jpg" alt="App Screenshot" width="300">
 
-![alt text](https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152118.jpg)
+<img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152118.jpg" alt="App Screenshot" width="300">
 
-![alt text](https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152146.jpg)
+<img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152146.jpg" alt="App Screenshot" width="300">
 
-![alt text](https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152200.jpg)
+<img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152200.jpg" alt="App Screenshot" width="300">
+
+</div>
