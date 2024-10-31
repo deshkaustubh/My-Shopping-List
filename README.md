@@ -16,13 +16,13 @@ Helps you create a list of items and item quantity, add more items, delete items
 
 ## 📸 Images
 
-<table cellpadding="10" cellspacing="20">
+<table style="width:100%">
   <tr>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152115.jpg" alt="App Screenshot" width="300"></td>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152118.jpg" alt="App Screenshot" width="300"></td>
+    <td style="width:50%; padding:10px;"><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152115.jpg" alt="App Screenshot" style="width:100%"></td>
+    <td style="width:50%; padding:10px;"><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152118.jpg" alt="App Screenshot" style="width:100%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152146.jpg" alt="App Screenshot" width="300"></td>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152200.jpg" alt="App Screenshot" width="300"></td>
+    <td style="width:50%; padding:10px;"><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152146.jpg" alt="App Screenshot" style="width:100%"></td>
+    <td style="width:50%; padding:10px;"><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Shopping%20List/Screenshot_20241006-152200.jpg" alt="App Screenshot" style="width:100%"></td>
   </tr>
 </table>
